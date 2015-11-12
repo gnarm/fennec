@@ -1,0 +1,20 @@
+{
+
+  "name" : "gnarm/fennec",
+  "require" : {
+
+    "gnarm/flycatcher" : "dev-dev"
+
+  },
+
+  "autoload" : {
+
+    "psr-4" : {
+
+      "Fennec\\" : "Fennec/"
+
+    }
+
+  }
+
+}
